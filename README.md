@@ -19,7 +19,6 @@
 <p align="left">
 <a href="https://fb.com/abdullah razzaq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdullah razzaq" height="30" width="40" /></a>
 <a href="https://instagram.com/its_abdullah_2008" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_abdullah_2008" height="30" width="40" /></a>
-<a href="https://www.behance.net/abdullah razzaq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="abdullah razzaq" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/chotu edits" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="chotu edits" height="30" width="40" /></a>
 </p>
 
